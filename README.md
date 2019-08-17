@@ -1,7 +1,7 @@
 # yt-devmeetup-vue
 
 A dev meetup application built with Vue + Vuetify + Firebase.
-
+dwdwdwddw
 ## Build Setup
 
 ``` bash
